@@ -394,26 +394,26 @@ a {
   text-align: right;
 }
 
-.god-presence:hover .god-float-text {
-  opacity: 1;
-  transform: translateY(-50%) translateY(-8px);
-}
-
 .god-float-title {
   text-transform: none;
   letter-spacing: 0.08em;
-  margin-bottom: 0.5rem;
-  font-size: 0.95rem;
-  font-weight: 500;
-  opacity: 1;
-  line-height: 1.4;
+  margin-bottom: 0.65rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  opacity: 0.95;
+  line-height: 1.5;
+  color: #ffffff;
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
 }
 
 .god-float-description {
-  opacity: 0.8;
-  font-size: 0.9rem;
-  line-height: 1.6;
-  letter-spacing: 0.02em;
+  opacity: 0.75;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: #e8e8e8;
+  font-weight: 300;
+  text-shadow: 0 0 12px rgba(255, 255, 255, 0.15);
 }
 
 /* Background layers */
