@@ -202,6 +202,28 @@ a {
   }
 }
 
+@keyframes ephemeralFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-50%) translateY(-12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(-50%) translateY(-8px);
+  }
+}
+
+@keyframes ephemeralFadeOut {
+  0% {
+    opacity: 1;
+    transform: translateY(-50%) translateY(-8px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-50%) translateY(8px);
+  }
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
