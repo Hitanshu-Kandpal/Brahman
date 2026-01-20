@@ -297,9 +297,12 @@ a {
 }
 
 .god-name-label {
-  font-size: 1.8rem;
-  letter-spacing: 0.12em;
+  font-size: 2rem;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
+  font-weight: 700;
+  opacity: 0.95;
+  text-shadow: 0 0 30px rgba(255, 255, 255, 0.2);
 }
 
 .god-presence:hover .god-avatar {
