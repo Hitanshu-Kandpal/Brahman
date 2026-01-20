@@ -340,7 +340,7 @@ a {
 
 .god-presence:hover .god-float-text {
   opacity: 1;
-  transform: translateY(-50%) translateY(-6px);
+  transform: translateY(-50%) translateY(-8px);
 }
 
 .god-float-title {
