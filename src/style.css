@@ -184,6 +184,15 @@ a {
   }
 }
 
+@keyframes floatingLotus {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-16px);
+  }
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
