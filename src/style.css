@@ -220,10 +220,10 @@ a {
 }
 
 .gods-wrapper {
-  padding-top: 40vh;
-  padding-bottom: 10vh;
+  padding-top: 50vh;
+  padding-bottom: 12vh;
   width: 100%;
-  max-width: 1200px;
+  max-width: 1280px;
   margin: 0 auto;
   position: relative;
 }
